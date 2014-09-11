@@ -1,0 +1,15 @@
+{
+    "name": "yanpapayan/yii-dropzone",
+    "type": "library",
+    "description": "A Yii extension for Dropzone.js",
+    "keywords": ["yii", "upload", "dropzone"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "subdee"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    }
+}
